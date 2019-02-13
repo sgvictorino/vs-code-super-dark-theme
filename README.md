@@ -6,7 +6,7 @@ This theme fades the backgrounds of most built-in Visual Studio Code tools into 
 
 ## Installation
 
-Download [the VSIX file](https://github.com/sgvictorino/vs-code-super-dark-theme/releases/download/v0.1/super-dark-theme.vsix) from the releases page and run `code --install-extension super-dark-theme.vsix`.
+Download [the VSIX file](https://github.com/sgvictorino/vs-code-super-dark-theme/releases/download/1.0.0/super-dark-theme.vsix) from the releases page and run `code --install-extension super-dark-theme.vsix`.
 
 ## Contributing
 
