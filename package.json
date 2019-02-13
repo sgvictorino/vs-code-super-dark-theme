@@ -1,0 +1,21 @@
+{
+    "name": "super-dark-theme",
+    "displayName": "Super Dark Theme",
+    "description": "A super dark theme.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.31.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Super Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Super Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
