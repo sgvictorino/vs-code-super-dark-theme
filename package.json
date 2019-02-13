@@ -2,7 +2,9 @@
     "name": "super-dark-theme",
     "displayName": "Super Dark Theme",
     "description": "A super dark theme.",
-    "version": "0.0.1",
+    "publisher": "sgvictorino",
+    "version": "1.0.0",
+    "repository": "https://github.com/sgvictorino",
     "engines": {
         "vscode": "^1.31.0"
     },
